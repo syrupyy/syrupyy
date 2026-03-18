@@ -19,7 +19,7 @@ web & game developer, content creator on [YouTube](https://www.youtube.com/@syru
 ## other projects (open source)
 
 - **[Cookie Comic Creator](https://github.com/syrupyy/cookiecomiccreator)** - the Cookie Run-only prequel to Comic Studio
-- **[Simple Pitch/Speed Changer](https://github.com/syrupyy/simple-pitch-speed)** - browser extension to change the pitch and speed of media on web pages
+- **[Simple Pitch/Speed Changer](https://github.com/syrupyy/simple-pitch-speed)** - browser extension to change the pitch and speed of media on web pages (also on [Chrome Web Store](https://chromewebstore.google.com/detail/simple-pitchspeed-changer/kgcfehimpabpfopbdfddijfafjicjdea))
 - **[proquint](https://github.com/syrupyy/proquint)** - Go library for working with proquints, including the weird Comic Studio variant
 - **[boofunpack](https://github.com/syrupyy/boofunpack)** - Cocos2d-x texture unpacker, primarily for Cookie Run
 
