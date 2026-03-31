@@ -13,11 +13,11 @@ web & game developer, content creator on [YouTube](https://www.youtube.com/@syru
 ## current projects (closed source)
 
 - **[Comic Studio](https://comic.studio/)** - make comics and comic creators with characters from any series
-- **[PaintRush](https://paintrush.net/)** - like DoorDash, but for art (shutting down, will be made open source)
 - **[Dreamnet Online](https://www.tumblr.com/syrupyy/780915781422710784/dreamnet-character-refs)** - a game about saving the Internet from itself. full development starts in April!
 
 ## other projects (open source)
 
+- **[PaintRush](https://github.com/syrupyy/paintrush)** - like DoorDash, but for art
 - **[Cookie Comic Creator](https://github.com/syrupyy/cookiecomiccreator)** - the Cookie Run-only prequel to Comic Studio
 - **[Simple Pitch/Speed Changer](https://github.com/syrupyy/simple-pitch-speed)** - browser extension to change the pitch and speed of media on web pages (also on [Chrome Web Store](https://chromewebstore.google.com/detail/simple-pitchspeed-changer/kgcfehimpabpfopbdfddijfafjicjdea))
 - **[proquint](https://github.com/syrupyy/proquint)** - Go library for working with proquints, including the weird Comic Studio variant
