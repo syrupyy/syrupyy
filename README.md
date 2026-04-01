@@ -13,7 +13,7 @@ web & game developer, content creator on [YouTube](https://www.youtube.com/@syru
 ## current projects (closed source)
 
 - **[Comic Studio](https://comic.studio/)** - make comics and comic creators with characters from any series
-- **[Dreamnet Online](https://www.tumblr.com/syrupyy/780915781422710784/dreamnet-character-refs)** - a game about saving the Internet from itself. full development starts in April!
+- **[Dreamnet Online](https://www.tumblr.com/syrupyy/780915781422710784/dreamnet-character-refs)** - a game about saving the Internet from itself. currently in full-time development
 
 ## other projects (open source)
 
