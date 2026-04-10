@@ -3,6 +3,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=plastic&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=plastic&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00add8?style=plastic&logo=go&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512bd4?style=plastic&logo=dotnet&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/-Godot%20Engine-478cbf?style=plastic&logo=godotengine&logoColor=white)
 ![Kubuntu](https://img.shields.io/badge/-Kubuntu-0079c1?style=plastic&logo=kubuntu&logoColor=white)
 ![YouTube](https://img.shields.io/badge/-YouTube-ff0000?style=plastic&logo=youtube&logoColor=white)
