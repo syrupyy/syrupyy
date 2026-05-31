@@ -9,7 +9,7 @@
 ![YouTube](https://img.shields.io/badge/-YouTube-ff0000?style=plastic&logo=youtube&logoColor=white)
 ![Undertale](https://img.shields.io/badge/-Undertale-e71d29?style=plastic&logo=undertale&logoColor=white)
 
-web & game developer, content creator on [YouTube](https://www.youtube.com/@syrupyy), rolling stone. Brooklyn, NY. I am one of the greatest to ever do it
+indie web & game developer, content creator on [YouTube](https://www.youtube.com/@syrupyy), rolling stone. I am one of the greatest to ever do it
 
 ## current projects (closed source)
 
